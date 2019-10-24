@@ -30,7 +30,7 @@ These Shadows are made with a custom shader that is included in this project.
 
 ## Scripts
 
-Scripts in this project will be constantly updated. The ARDemo script provides for everything needed in the Demo version(except the light estimation/).
+Scripts in this project will be constantly updated. The ARDemo script provides for everything needed in the Demo version(except the light estimation).
 All rims script provides all the rims that can be used.
 All models script provides all the car models that can be used.
 The UI script makes most of the user interfaces pop up when you click on an image in the toolbar.
@@ -52,7 +52,7 @@ Slider to set the size of the model
 ARPlane indicator. This shows where the model is going to be placed.
 ARPlanes. These will generate planes where you could place the model.
 
-All these will also be provided in the complete version unless the Demo version gets feedback to remove/change it.
+***All these will also be provided in the complete version unless the Demo version gets feedback to remove/change it.***
 
 ## Builds
 
