@@ -573,7 +573,11 @@ public class ArDemo : MonoBehaviour
     }
     IEnumerator LoadAssets()
     {
+        // Turns everything on to check for errors
         yield return new WaitForSeconds(2);
+        spawnedObject = Instantiate(objectToPlace, placementPose.position, placementPose.rotation);
+        IsSpawned = true;
+        ConfirmScale();
         canvas.SetActive(true);
         ChangeCarPanel.SetActive(true);
         CarBrandsPanel.SetActive(true);
@@ -581,13 +585,20 @@ public class ArDemo : MonoBehaviour
         BMWPanel.SetActive(true);
         scalingPanel.SetActive(true);
         scaling.value = objectToPlace.transform.localScale.x;
+        
+        // Turns everything back to default after checking for errors
         yield return new WaitForSeconds(0.5f);
+        RemoveModel();
+        IsSpawned = false;
+        hasScaled = false;
         canvas.SetActive(false);
         ChangeCarPanel.SetActive(false);
         CarBrandsPanel.SetActive(false);
         AudiPanel.SetActive(false);
         BMWPanel.SetActive(false);
         scalingPanel.SetActive(false);
+        
+        //If no errors show up and everything is turned back to default, Loading is complete and the loading screen should turn off
         yield return new WaitForSeconds(0.1f);
         loadingScreen.SetActive(false);
     }
