@@ -182,6 +182,26 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: licenseplate.001_Plane.000_black_signMat
+    second: {fileID: 2100000, guid: b2fd5994a0342fc44953678976bddd4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: licenseplate.001_Plane.000_logo_textMat
+    second: {fileID: 2100000, guid: f4fdd213793707247bc05c54d9a73555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: licenseplate_Plane.017_black_signMat
+    second: {fileID: 2100000, guid: b2fd5994a0342fc44953678976bddd4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: licenseplate_Plane.017_logo_textMat
+    second: {fileID: 2100000, guid: f4fdd213793707247bc05c54d9a73555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: logo_f_chrome.001_logo_f_chrome.001_chromeMat
     second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
   - first:
