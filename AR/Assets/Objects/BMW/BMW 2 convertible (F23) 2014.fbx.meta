@@ -12,6 +12,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: black_sign
+    second: {fileID: 2100000, guid: b2fd5994a0342fc44953678976bddd4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: blue
     second: {fileID: 2100000, guid: a36f878b1f79a28479979d4b6a54fdea, type: 2}
   - first:
