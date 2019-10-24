@@ -53,3 +53,7 @@ ARPlane indicator. This shows where the model is going to be placed.
 ARPlanes. These will generate planes where you could place the model.
 
 All these will also be provided in the complete version unless the Demo version gets feedback to remove/change it.
+
+# APK's
+
+In the build folder there are .apk's of all previous/current versions of the project.
