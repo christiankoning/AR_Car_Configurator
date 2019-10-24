@@ -54,6 +54,7 @@ ARPlanes. These will generate planes where you could place the model.
 
 All these will also be provided in the complete version unless the Demo version gets feedback to remove/change it.
 
-# APK's
+# Builds
 
 In the build folder there are .apk's of all previous/current versions of the project.
+For now only Android builds have been made. iOS still needs to be tested and will be available in the near future.
