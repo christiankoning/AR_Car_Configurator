@@ -40,8 +40,8 @@ Removed PlatinioTween's resources/scripts
 Implemented new UI script
 Reworked the UI layout to work on both portrait and widescreen mode
 Added Light Estimation for materials(needs to be tested at home)
+Added before editing the model. Give the option to change the scale of the object and afterwards make it possible to modify the object
 
 
 [Suggestions]
 - Use reflection probes to get reflections in realtime
-- Before editing the model. Give the option to change the scale of the object and afterwards make it possible to modify the object
