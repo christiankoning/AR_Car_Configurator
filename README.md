@@ -7,7 +7,7 @@
 ## Light Estimation
 
 Light estimation script provided in this project makes the model adept to the light in the physical environment.
-The model will blend in with it's phyisical surrounding providing a more realistic look to the model.
+The model will blend in with it's physical surrounding providing a more realistic look to the model.
 
 ## Models
 
@@ -38,7 +38,7 @@ These Shadows are made with a custom shader that is included in this project.
 - The test script is only used for testing purposes before launching it in the Demo/Complete version.
 - ARTapToPlaceObject script is the first version of the AR Car Configurator script. this one is deprecated since the ARDemo script provides better quality.
 
-## UI
+## User Interface
 
 **In the Demo version:**
 - The user interface in this project provides a loading screen before being able to place objects. this prevents the application from starting with errors.
@@ -48,7 +48,7 @@ These Shadows are made with a custom shader that is included in this project.
 - Delete option to remove the model and replace it.
 - 2 buttons to manually rotate the model.
 - Automatic rotate button that rotates the model until you stop it.
-- Slider to set the size of the model
+- Slider to set the size of the model.
 - 2 animated hints that show you how to search for ARPlanes and how to place the model.
 - ARPlane indicator. This shows where the model is going to be placed.
 - ARPlanes. These will generate planes where you could place the model.
@@ -58,4 +58,5 @@ These Shadows are made with a custom shader that is included in this project.
 ## Builds
 
 In the build folder there are .apk's of all previous/current versions of the project.
-For now only Android builds have been made. iOS still needs to be tested and will be available in the near future.
+For now only Android builds have been made.
+iOS still needs to be tested and will be available in the near future.
