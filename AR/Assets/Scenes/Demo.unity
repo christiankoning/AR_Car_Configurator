@@ -3135,6 +3135,7 @@ GameObject:
   - component: {fileID: 788282515}
   - component: {fileID: 788282517}
   - component: {fileID: 788282516}
+  - component: {fileID: 788282518}
   m_Layer: 5
   m_Name: LoadingText
   m_TagString: Untagged
@@ -3201,6 +3202,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788282514}
   m_CullTransparentMesh: 0
+--- !u!111 &788282518
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788282514}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 9b51cd8220fc0094b9b9489a1487177a, type: 2}
+  m_Animations:
+  - {fileID: 7400000, guid: 9b51cd8220fc0094b9b9489a1487177a, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &807257159
 GameObject:
   m_ObjectHideFlags: 0
@@ -6138,9 +6155,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 608095145}
   m_Direction: 0
   m_MinValue: 0.01
-  m_MaxValue: 1
+  m_MaxValue: 0.5
   m_WholeNumbers: 0
-  m_Value: 0.05
+  m_Value: 0.01
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
