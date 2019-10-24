@@ -40,17 +40,17 @@ ARTapToPlaceObject script is the first version of the AR Car Configurator script
 ## UI
 
 **In the Demo version:**
-The user interface in this project provides a loading screen before being able to place objects. this prevents the application from starting with errors.
-Menu to choose between different car brands & car models.
-Menu to choose between the rims. All the rims are provided with an image.
-Color picker for both models and rims.
-Delete option to remove the model and replace it.
-2 buttons to manually rotate the model.
-Automatic rotate button that rotates the model until you stop it.
-Slider to set the size of the model
-2 animated hints that show you how to search for ARPlanes and how to place the model.
-ARPlane indicator. This shows where the model is going to be placed.
-ARPlanes. These will generate planes where you could place the model.
+- The user interface in this project provides a loading screen before being able to place objects. this prevents the application from starting with errors.
+- Menu to choose between different car brands & car models.
+- Menu to choose between the rims. All the rims are provided with an image.
+- Color picker for both models and rims.
+- Delete option to remove the model and replace it.
+- 2 buttons to manually rotate the model.
+- Automatic rotate button that rotates the model until you stop it.
+- Slider to set the size of the model
+- 2 animated hints that show you how to search for ARPlanes and how to place the model.
+- ARPlane indicator. This shows where the model is going to be placed.
+- ARPlanes. These will generate planes where you could place the model.
 
 ***All these will also be provided in the complete version unless the Demo version gets feedback to remove/change it.***
 
