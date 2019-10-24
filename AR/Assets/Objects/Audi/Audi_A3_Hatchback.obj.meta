@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 69545e65230d5d240933aea3bf95d6cf
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object002_Object002_redglassMat
+    second: {fileID: 2100000, guid: 3e78bb85981ec5147b8d1fd90b08372f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object003_Object003_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object004_Object004_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object006_Object006_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object007_Object007_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object008_Object008_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object009_Object009_redglassMat
+    second: {fileID: 2100000, guid: 3e78bb85981ec5147b8d1fd90b08372f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object010_Object010_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object01_Object01_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane01_Plane01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane02_Plane02_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text_TDI01_Text_TDI01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text_a01_Text_a01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube01_Tube01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: anth01_anth01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottom01_bottom01_carriageMat
+    second: {fileID: 2100000, guid: 529446ead7d9bd34a9803dc9ed19688a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumper_b01_bumper_b01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumper_b_plastic01_bumper_b_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bumper_f01_bumper_f01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door01_door01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_chrome01_door_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_window_plastic01_door_window_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fender_b01_fender_b01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill_chrome01_grill_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill_plastic01_grill_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halogen_body02_halogen_body02_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halogen_body03_halogen_body03_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halogen_chrome01_halogen_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halogen_glass01_halogen_glass01_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helogen_plastic01_helogen_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hood01_hood01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_chrome01_hradlight_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_clearglass01_hradlight_clearglass01_headlight_glassMat
+    second: {fileID: 2100000, guid: 2aed919ef3405114682536d32486cc99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_light3_cjrome01_hradlight_light3_cjrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_light3_glass01_hradlight_light3_glass01_darkglassMat
+    second: {fileID: 2100000, guid: 1da012376c2845a4db25d9dc22c2c890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_light3_mmetal01_hradlight_light3_mmetal01_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_light3_reflector01_hradlight_light3_reflector01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hradlight_plastic01_hradlight_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_body01_interior_body01_mattemetalMat
+    second: {fileID: 2100000, guid: 2cc32d205f91ea946865bef2e464428a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_chair_f01_interior_chair_f01_interiorMat
+    second: {fileID: 2100000, guid: 2cc32d205f91ea946865bef2e464428a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_mirror01_interior_mirror01_mirrorMat
+    second: {fileID: 2100000, guid: 6cd521711324353468b03ac366fed082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_torpedo01_interior_torpedo01_interiorMat
+    second: {fileID: 2100000, guid: 2cc32d205f91ea946865bef2e464428a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_b_chrome01_logo_b_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_f_chrome01_logo_f_chrome01_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo_f_plastic01_logo_f_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror01_mirror01_mirrorMat
+    second: {fileID: 2100000, guid: 6cd521711324353468b03ac366fed082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_metal01_mirror_metal01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_plastic01_mirror_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod01_mirror_signal_diod01_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod02_mirror_signal_diod02_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod03_mirror_signal_diod03_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod04_mirror_signal_diod04_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod05_mirror_signal_diod05_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod06_mirror_signal_diod06_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod08_mirror_signal_diod08_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_diod09_mirror_signal_diod09_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror_signal_glass01_mirror_signal_glass01_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nichrome_01_nichrome_01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nichrome_04_nichrome_04_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nichrome_05_nichrome_05_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof01_roof01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_body01_sphere_body01_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_body02_sphere_body02_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_body03_sphere_body03_mattemetalMat
+    second: {fileID: 2100000, guid: bb089233fde2ca04fa80ebb1df2ad6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_lightbulb01_sphere_lightbulb01_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_lightbulb02_sphere_lightbulb02_clearglassMat
+    second: {fileID: 2100000, guid: 1c23524df428fb646863bc3d2ee67901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sphere_lightbulb03_sphere_lightbulb03_orangeglassMat
+    second: {fileID: 2100000, guid: ec4fde3ea7477004d93b4db64f97cd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tailgate01_tailgate01_carpaintMat
+    second: {fileID: 2100000, guid: a13484563329a084f8976bd20766409b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taillight_body_chrome01_taillight_body_chrome01_darkglassMat
+    second: {fileID: 2100000, guid: 1da012376c2845a4db25d9dc22c2c890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taillight_reflector_02_taillight_reflector_02_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taillight_reflector_05_taillight_reflector_05_chromeMat
+    second: {fileID: 2100000, guid: 242b0f999dae50e4cabaf10adc929da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taillight_refractor01_taillight_refractor01_redglassMat
+    second: {fileID: 2100000, guid: 3e78bb85981ec5147b8d1fd90b08372f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_f_plastic01_window_f_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows01.001_windows01.001_windowglass_rearMat
+    second: {fileID: 2100000, guid: 06bbcf93f39016d4baae210e76fedbd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows01_windows01_windowglassMat
+    second: {fileID: 2100000, guid: 5a40b66cc744a324d9f9f5b01ac26c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows_plastic01_windows_plastic01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wiper_b01_wiper_b01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wiper_smooth01_wiper_smooth01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wipers01_wipers01_blackMat
+    second: {fileID: 2100000, guid: a35cb9bdf5b21dc4f98f59f95fc88dee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

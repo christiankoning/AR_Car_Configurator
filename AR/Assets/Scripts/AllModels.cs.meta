@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d057a141ffde514f89de693af8b5e0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Audi_A4_Allroad: {fileID: 1712175115227863364, guid: 78cc299feea229142903cd8e6817450b,
+      type: 3}
+  - BMW_i8_2014: {fileID: 3743268361498996995, guid: 34b4d093a4b10f24a82fdcb31cab49bd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

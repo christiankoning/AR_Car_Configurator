@@ -1,0 +1,47 @@
+Android V9(Out) 24.4 mb
+
+- When the model menu is turned on you no longer can place objects while trying to select a new model.
+- changed the size of the auto rotate button from 50 to 80
+- added manual rotation to the left + right
+- disabled the ability to rotate the mobile screen to landscape rotation
+- canvas will close if there is no model placed
+
+
+
+
+Android V10(Out) 37.1 mb
+
+- Added Car Brands + More model Pages
+- Added Extra Rim Pages
+- Added 17 new rims
+- Added 4 new audi models
+- Implemented the AllModels + AllRims script
+
+
+
+Android V11(Pre Release) 72.9 mb
+
+- Added 3 rim color options(chrome & black, full chrome, full black)
+- Changed the position of the Color UI
+- Added on the color UI a switch between rim and car colors
+- Added 5 new Audi models
+- Added 23 new BMW models
+- Changed the names of the buttons for the new BMW models
+- Updated the amount of pages needed for the BMW models
+- Changed the buttons of the rim colors(didnt work before)
+- Edited the model menu button to be invisible once you opened the model menu and once you close the menu it wil reappear
+- Added all the brand names + all available models to the UI (models are not ar ready yet.)
+
+To Add:
+
+- Add all other rims (when a .png is available)
+
+- Add carpaint alt colors
+
+- Rework the UI to make it ready for mobile widescreen
+
+- Rework UI to make it looks more clean and give it a better quality
+
+
+Error: Rim Color buttons not working
+Error: object not stable in world space(keeps stuttering)(object to big?)

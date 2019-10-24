@@ -1,0 +1,47 @@
+AR Demo V1:
+
+Only 2 models(bmw i8, audi a4 allroad)
+Only 2-4 rims
+Carpaint + rim colors
+Rotation + auto rotation
+Removing/Replacing model
+changing rim colors is working
+Shadow under the model(makes it more realistic in world space)
+
+To Add:
+
+Scaling of the object(table scale + full scale? or slider with a min. of table size and max. of full scale)
+
+Model color needs to adept to its surroundings(only available for arkit? can't test if the color gets changed on the iphone)
+
+more realistic materials(use lwrp? shaders(shader graph)?)
+
+change the shadow to use real positions of lights
+
+
+--------------------------------------------------------------------------------
+
+added planemanager + enable / disable this component
+
+[Not Tested & Test Scene]
+Changed the canvas screen match mode to "Match width or Height"
+and Match to "0.5"
+Removed the Platinio resources and reworked the UI layout
+Added Feathered plane material for the ARplane
+Added 2 animations for the tutorial/tips/hints
+Added detection when an ARPlane has been created so that the animation can get changed
+Added when object has been placed that there is no animation on the screen
+Added Light Estimation for materials(needs to be tested at home)
+Added when object has been placed the arplanes become invisible
+
+[Not tested & Demo scene]
+Added Tips/Hints/Tutorial
+Removed PlatinioTween's resources/scripts
+Implemented new UI script
+Reworked the UI layout to work on both portrait and widescreen mode
+Added Light Estimation for materials(needs to be tested at home)
+
+
+[Suggestions]
+- Use reflection probes to get reflections in realtime
+- Before editing the model. Give the option to change the scale of the object and afterwards make it possible to modify the object
