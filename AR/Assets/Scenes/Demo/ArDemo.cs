@@ -33,6 +33,8 @@ public class ArDemo : MonoBehaviour
     public GameObject loadingScreen;
     public GameObject ColorPanel;
     public GameObject ModificationsPanel;
+    private UI colorUI;
+    private UI ModificationUI;
 
     // Change Color + Auto Rotate
     public Material Carpaint;
@@ -109,6 +111,9 @@ public class ArDemo : MonoBehaviour
     {
         // Searches for the object with the raycast manager component
         raycastManager = GetComponent<ARRaycastManager>();
+        colorUI = ColorPanel.GetComponent<UI>();
+        ModificationUI = ModificationsPanel.GetComponent<UI>();
+
     }
     void Start()
     {
@@ -404,8 +409,8 @@ public class ArDemo : MonoBehaviour
             ChangeRim = Arcan;
             CurrentNumber = 0;
             CheckRimPage(CurrentNumber);
-            ColorPanel.GetComponent<UI>().Hide();
-            ModificationsPanel.GetComponent<UI>().Hide();
+            colorUI.Hide();
+            ModificationUI.Hide();
             canvas.SetActive(false);
 
             //For Debugging purposes. This requires that the ARPlaneManager contains a debug prefab
