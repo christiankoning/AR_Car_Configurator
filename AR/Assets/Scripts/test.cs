@@ -16,4 +16,7 @@ public class test : MonoBehaviour
     ///The car should not be able to flip. To prevent that from happening there needs to be a speed limit
     ///The car should also be heavy enough to make it unable to flip
     ///The car needs to be able to drive forward and in reverse. The car needs breaks aswell
+    ///In the UI top right corner get 2 images:
+    ///A steeringwheel that when pressed gives the UI to drive and turns off the modifications options in the UI
+    ///A modification image that turns off the driving abilities and turns on the modification options.
 }
