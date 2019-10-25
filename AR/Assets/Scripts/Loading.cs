@@ -26,7 +26,7 @@ public class Loading : MonoBehaviour
                 tipsText.text = "Tip:" + "If you want to replace the model. Click on the bin and you will be able to replace it.";
                 break;
             case 2:
-                tipsText.text = "Tip:" + "This is a demo. Only 2 car models are useable.";
+                tipsText.text = "Tip:" + "This is a demo. Only 2 car models are usable.";
                 break;
         }
     }
