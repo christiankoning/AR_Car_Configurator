@@ -23,8 +23,13 @@ All rims can be placed in the physical environment.
 There are 3 different rim colors available.
 This project will contain a full list of rims from different brands. These will be used after the demo is finished.
 
-## Shadows
+## Reflection & Shadows
 
+### Reflections
+The reflection on the models are made with custom materials. These custom materials are provided with a cube map.
+The reflection gets rendered by the reflection probe within the scene.
+
+### Shadows
 Both the models and rims provide shadows on the ARPlane.
 These Shadows are made with a custom shader that is included in this project.
 
