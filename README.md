@@ -35,6 +35,7 @@ These Shadows are made with a custom shader that is included in this project.
 - AllRims.cs provides all the rims that can be used.
 - AllModels.cs provides all the car models that can be used.
 - UI.cs makes most of the user interfaces pop up when you click on an image in the toolbar.
+- LightEstimation.cs provides for correct lighting on the model.
 - test.cs is only used for testing purposes before launching it in the demo/complete version.
 - ARTapToPlaceObject.cs is the first version of the AR Car Configurator script. this one is deprecated since the ARDemo script provides better quality.
 - Loading.cs gives different tips on the loading screen.
