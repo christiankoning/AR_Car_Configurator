@@ -31,12 +31,13 @@ These Shadows are made with a custom shader that is included in this project.
 ## Scripts
 
 ***Scripts in this project will be constantly updated.***
-- The ARDemo script provides for everything needed in the demo version(except the light estimation).
-- All rims script provides all the rims that can be used.
-- All models script provides all the car models that can be used.
-- The UI script makes most of the user interfaces pop up when you click on an image in the toolbar.
-- The test script is only used for testing purposes before launching it in the demo/complete version.
-- ARTapToPlaceObject script is the first version of the AR Car Configurator script. this one is deprecated since the ARDemo script provides better quality.
+- ARDemo.cs provides for everything needed in the demo version(except the light estimation).
+- AllRims.cs provides all the rims that can be used.
+- AllModels.cs provides all the car models that can be used.
+- UI.cs makes most of the user interfaces pop up when you click on an image in the toolbar.
+- test.cs is only used for testing purposes before launching it in the demo/complete version.
+- ARTapToPlaceObject.cs is the first version of the AR Car Configurator script. this one is deprecated since the ARDemo script provides better quality.
+- Loading.cs gives different tips on the loading screen.
 
 ## User Interface
 
