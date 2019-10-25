@@ -14,14 +14,14 @@ The model will blend in with it's physical surrounding providing a more realisti
 In the demo version only 2 models can be used(BMW i8 & Audi A4 Allroad).
 Both models can be placed, rotated and scaled in the physical environment.
 There are 5 different carpaint colors available.
-This project will contain a full list of cars from different brands. These will be used after the demo is finished.
+***This project will contain a full list of cars from different brands. These will be used after the demo is finished.***
 
 ## Rims
 
 In the demo version only 4 rims are available.
 All rims can be placed in the physical environment.
 There are 3 different rim colors available.
-This project will contain a full list of rims from different brands. These will be used after the demo is finished.
+***This project will contain a full list of rims from different brands. These will be used after the demo is finished.***
 
 ## Reflection & Shadows
 
