@@ -33,6 +33,7 @@ public class Loading : MonoBehaviour
 
     IEnumerator SwitchTips()
     {
+        // Changes the tip shown on the loading screen every 5 seconds
         yield return new WaitForSeconds(5);
         tipsOrder = Random.Range(0, 3);
         RandomTip(tipsOrder);
