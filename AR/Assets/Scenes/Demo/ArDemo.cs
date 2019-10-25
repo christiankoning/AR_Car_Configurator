@@ -31,6 +31,8 @@ public class ArDemo : MonoBehaviour
     public Slider scaling;
     private bool hasScaled = false;
     public GameObject loadingScreen;
+    public GameObject ColorPanel;
+    public GameObject ModificationsPanel;
 
     // Change Color + Auto Rotate
     public Material Carpaint;
@@ -78,8 +80,6 @@ public class ArDemo : MonoBehaviour
     public Button RimColorButton;
     public GameObject[] ColorOptions;
     private int CurrentColor = 0;
-    private int MaxColorOption = 1;
-    private int MinColorOption = 0;
 
     //Hints
     private bool moveDevice = true;
@@ -404,6 +404,8 @@ public class ArDemo : MonoBehaviour
             ChangeRim = Arcan;
             CurrentNumber = 0;
             CheckRimPage(CurrentNumber);
+            ColorPanel.GetComponent<UI>().Hide();
+            ModificationsPanel.GetComponent<UI>().Hide();
             canvas.SetActive(false);
 
             //For Debugging purposes. This requires that the ARPlaneManager contains a debug prefab
