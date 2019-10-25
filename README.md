@@ -25,11 +25,11 @@ This project will contain a full list of rims from different brands. These will 
 
 ## Reflection & Shadows
 
-### Reflections
-The reflection on the models are made with custom materials. These custom materials are provided with a cube map.
-The reflection gets rendered by the reflection probe within the scene.
+#### Reflections
+The reflection on the models are made with custom materials. These custom materials are provided with a custom cube map.
+The cube map gets rendered by the reflection probe. After the model is placed the material on this model gets a rendered cube map as reflection.
 
-### Shadows
+#### Shadows
 Both the models and rims provide shadows on the ARPlane.
 These Shadows are made with a custom shader that is included in this project.
 
