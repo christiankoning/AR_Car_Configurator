@@ -8,15 +8,20 @@ public class Loading : MonoBehaviour
     private int tipsOrder;
     public Text tipsText;
 
-
     private void Start()
     {
+        //Starts a routine that changes every 5 seconds the tip on the loading screen until the app is loaded
         StartCoroutine(SwitchTips());
         RandomTip(Random.Range(0,3));
     }
-
     void RandomTip(int random)
     {
+        // Edit tips in here.
+        // Add tips in here aswell. Dont forget to change the random range to the maximum amount of cases(tips).
+        // The random ranges are placed in void Start & IEnumerator SwitchTips. Only change the last number in the Random.Range
+        // The last number needs to be the total number of cases(tips) there are.
+        // It will look like this: Random.Range(0,3); the first number is the minimum. of tips. This number you never have to change.
+        // The second number is the max. This one you need to edit to the amount of tips there are.
         switch(random)
         {
             case 0:
@@ -30,7 +35,6 @@ public class Loading : MonoBehaviour
                 break;
         }
     }
-
     IEnumerator SwitchTips()
     {
         // Changes the tip shown on the loading screen every 5 seconds
