@@ -12,7 +12,7 @@ public class Loading : MonoBehaviour
     private void Start()
     {
         StartCoroutine(SwitchTips());
-        RandomTip(Random.Range(0,5));
+        RandomTip(Random.Range(0,3));
     }
 
     void RandomTip(int random)
