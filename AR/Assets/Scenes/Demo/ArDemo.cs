@@ -412,6 +412,7 @@ public class ArDemo : MonoBehaviour
             colorUI.Hide();
             ModificationUI.Hide();
             canvas.SetActive(false);
+            IsRotating = false;
 
             //For Debugging purposes. This requires that the ARPlaneManager contains a debug prefab
             arplanemanager.enabled = true;
@@ -437,7 +438,7 @@ public class ArDemo : MonoBehaviour
         // Removes all previous spawned models
         RemoveModel();
     }
-    void CloseModelMenu()
+    public void CloseModelMenu()
     {
         //Closes the menu with all the car models
         ChangeCarPanel.GetComponent<UI>().Hide();
