@@ -577,6 +577,7 @@ public class ArDemo : MonoBehaviour
     void Loading()
     {
         StartCoroutine(LoadAssets());
+        Screen.orientation = ScreenOrientation.Portrait;
     }
     IEnumerator LoadAssets()
     {
@@ -607,6 +608,7 @@ public class ArDemo : MonoBehaviour
         
         //If no errors show up and everything is turned back to default, Loading is complete and the loading screen should turn off
         yield return new WaitForSeconds(0.1f);
+        Screen.orientation = ScreenOrientation.AutoRotation;
         loadingScreen.SetActive(false);
     }
 }
