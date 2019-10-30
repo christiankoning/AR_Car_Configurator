@@ -606,7 +606,7 @@ public class ArDemo : MonoBehaviour
         BMWPanel.SetActive(false);
         scalingPanel.SetActive(false);
         
-        //If no errors show up and everything is turned back to default, Loading is complete and the loading screen should turn off
+        // If no errors show up and everything is turned back to default, Loading is complete and the loading screen should turn off
         yield return new WaitForSeconds(0.1f);
         Screen.orientation = ScreenOrientation.AutoRotation;
         loadingScreen.SetActive(false);
